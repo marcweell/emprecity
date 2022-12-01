@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Profesional",
+        "subtitle": "Ideal para empezar tu proyecto web",
+        "yprice": "1.700€",
+        "yduration": "/año",
+        "mprice": "170€",
+        "mduration": "/mes",
+        "ahorro": "2 Meses Gratis",
+        "facility": [
+            "Diseño personalizado y responsive",
+            "Ecommerce autogestionable",
+            "Asistencia técnica y desarrollo",
+            "Integración Facebook Y Google Services",
+            "Elaboración 5 articulos al mes SEO",
+            "Optimizacion de 5 productos SEO",
+            "1 Creación Campaña publicitaria",
+            "Integracion Inteligencia artificial",
+            "Gestion de redes sociales con hasta 1 publicaciones / sem",
+            "Y Mucho más..."
+        ]
+    },
+    {
+        "title": "Profesional Plus",
+        "subtitle": "Ideal Para Ir mas allá",
+        "yprice": "2.200€",
+        "yduration": "/año",
+        "mprice": "220€",
+        "mduration": "/mes",
+        "ahorro": "2 Meses Gratis",
+        "facility": [
+            "Diseño personalizado y responsive",
+            "Ecommerce autogestionable",
+            "Asistencia técnica y desarrollo",
+            "Integración Facebook Y Google Services",
+            "Elaboración 10 articulos al mes SEO",
+            "Optimizacion de 15 productos SEO",
+            "2 Creación Campaña publicitaria",
+            "Integracion Inteligencia artificial",
+            "Gestion de redes sociales con hasta 3 publicaciones / sem",
+            "Y Mucho más..."
+        ]
+    },
+    {
+        "title": "Ultimate",
+        "subtitle": "Ideal para escalar",
+        "yprice": "3.200€",
+        "yduration": "/año",
+        "mprice": "320€",
+        "mduration": "/mes",
+        "ahorro": "2 Meses Gratis",
+        "facility": [
+            "Diseño personalizado y responsive",
+            "Ecommerce autogestionable",
+            "Asistencia técnica y desarrollo",
+            "Integración Facebook Y Google Services",
+            "Elaboración 20 articulos al mes SEO",
+            "Optimizacion de 50 productos SEO",
+            "5 Creación Campaña publicitaria",
+            "Integracion Inteligencia artificial",
+            "Gestion de redes sociales con hasta 6 publicaciones / sem",
+            "Y Mucho más..."
+        ]
+    }
+]

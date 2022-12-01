@@ -1,0 +1,71 @@
+[
+    {
+        "title": "Web Corporativa",
+        "subtitle": "Ideal para empezar darte a conocer",
+        "yprice": "1.200€",
+        "yduration": "/año",
+        "mprice": "120€",
+        "mduration": "/mes",
+        "ahorro": "2 Meses Gratis",
+        "facility": [
+            "Diseño personalizado y responsive",
+            "Página web autogestionable",
+            "Asistencia técnica y desarrollo",
+            "Integración Facebook Y Google Services",
+            "Elaboración 2 articulos al mes SEO",
+            "Elaboramos los textos corporativos",
+            "No Incluye Seo Optimización",
+            "No Incluye Integración Inteligencia artificial",
+            "No Incluye Plantilla editable Para Redes sociales",
+            "No Incluye Acceso a CRM valorado en 250€ mes",
+            "No Incluye Planificacion Campañas Publicitarias",
+            "Y Mucho más..."
+        ]
+    },
+    {
+        "title": "Profesional Plus",
+        "subtitle": "Ideal Para Ir mas allá",
+        "yprice": "2.400€",
+        "yduration": "/año",
+        "mprice": "240€",
+        "mduration": "/mes",
+        "ahorro": "2 Meses Gratis",
+        "facility": [
+            "Diseño personalizado y responsive",
+            "Página web autogestionable",
+            "Asistencia técnica y desarrollo",
+            "Integración Facebook Y Google Services",
+            "Elaboración 5 articulos al mes SEO",
+            "Elaboramos los textos corporativos",
+            "Seo Optimizacion",
+            "Integración Inteligencia artificial",
+            "Plantilla editable Para Redes sociales",
+            "No Incluye Planificacion Campañas Publicitarias",
+            "No Incluye Acceso a CRM valorado en 250€ mes",
+            "Y Mucho más..."
+        ]
+    },
+    {
+        "title": "Ultimate",
+        "subtitle": "Ideal para escalar",
+        "yprice": "3.600€",
+        "yduration": "/año",
+        "mprice": "360€",
+        "mduration": "/mes",
+        "ahorro": "2 Meses Gratis",
+        "facility": [
+            "Diseño personalizado y responsive",
+            "Página web autogestionable",
+            "Asistencia técnica y desarrollo",
+            "Integración Facebook Y Google Services",
+            "Elaboración 10 articulos al mes SEO",
+            "Elaboramos los textos corporativos",
+            "Seo Optimizacion Premium",
+            "Integración Inteligencia artificial",
+            "Plantilla editable Para Redes sociales",
+            "Acceso Ilimitado a CRM valorado en 250€ mes",
+            "Planificacion Campañas Publicitarias",
+            "Y Mucho más..."
+        ]
+    }
+]

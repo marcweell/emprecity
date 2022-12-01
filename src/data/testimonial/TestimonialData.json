@@ -1,0 +1,76 @@
+[
+
+    {
+        "fromtext": "Yelp",
+        "from": "/images/icon/yelp-2.png",
+        "description": "“Estoy muy contenta con los servicios prestados para montar mi tienda online de moda. Emprecity me proporcionó todas las herramientas y conocimientos necesarios para tener éxito en mi negocio. Estoy muy satisfecha con el diseño de mi sitio web, el posicionamiento SEO, las campañas de anuncios, y la gestión de Redes Sociales además de las integraciones con Inteligencia Artificial.",
+        "authorimg": "/images/testimonial/testimonial-1.png",
+        "authorname": "Marta",
+        "authordesig": "Sector de la moda"
+    },
+    {
+        "fromtext": "Google",
+        "from": "/images/icon/google-2.png",
+        "description": "Después de buscar durante meses una agencia de diseño web para montar mi tienda online, decidí contratar a Emprecity. Estoy muy contento con la forma en que me guiaron durante todo el proceso. Me informaron sobre cada detalle del diseño de la web y cómo implementar la inteligencia artificial para mejorar la experiencia de usuario. Estoy muy contento con el resultado final y la rapidez con la que me han entregado el trabajo. Estoy seguro de que ha sido una de las mejores decisiones de mi vida profesional",
+        "authorimg": "/images/testimonial/testimonial-2.png",
+        "authorname": "Juan Ramón",
+        "authordesig": "Sector automoción"
+    },
+    {
+        "fromtext": "Facebook",
+        "from": "/images/icon/fb-2.png",
+        "description": "Después de tener una conversación con los expertos de Emprecity, decidí contratarlos para construir mi tienda online de muebles. Estaba impresionado con el nivel de profesionalismo y conocimiento que tenían sobre diseño web y cómo implementar la inteligencia artificial en mi sitio para ofrecer a los clientes una experiencia de compra excepcional. Estoy muy contento con los resultados y no puedo esperar para ver cómo los clientes interactúan con mi nuevo sitio. ¡Gracias, Emprecity!",
+        "authorimg": "/images/testimonial/testimonial-3.png",
+        "authorname": "Jose Luís",
+        "authordesig": "Sector muebles"
+    },
+    {
+        "fromtext": "Yelp",
+        "from": "/images/icon/yelp-2.png",
+        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
+        "authorimg": "/images/testimonial/testimonial-1.png",
+        "authorname": "Darrell Steward",
+        "authordesig": "Executive Chairman"
+    },
+    {
+        "fromtext": "Google",
+        "from": "/images/icon/google-2.png",
+        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
+        "authorimg": "/images/testimonial/testimonial-2.png",
+        "authorname": "Savannah Nguyen",
+        "authordesig": "Executive Chairman"
+    },
+    {
+        "fromtext": "Facebook",
+        "from": "/images/icon/fb-2.png",
+        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
+        "authorimg": "/images/testimonial/testimonial-3.png",
+        "authorname": "Floyd Miles",
+        "authordesig": "Executive Chairman"
+    },
+    {
+        "fromtext": "Yelp",
+        "from": "/images/icon/yelp-2.png",
+        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
+        "authorimg": "/images/testimonial/testimonial-1.png",
+        "authorname": "Darrell Steward",
+        "authordesig": "Executive Chairman"
+    },
+    {
+        "fromtext": "Google",
+        "from": "/images/icon/google-2.png",
+        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
+        "authorimg": "/images/testimonial/testimonial-2.png",
+        "authorname": "Savannah Nguyen",
+        "authordesig": "Executive Chairman"
+    },
+    {
+        "fromtext": "Facebook",
+        "from": "/images/icon/fb-2.png",
+        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
+        "authorimg": "/images/testimonial/testimonial-3.png",
+        "authorname": "Floyd Miles",
+        "authordesig": "Executive Chairman"
+    }
+
+]
